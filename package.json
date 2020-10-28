@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/chaeeun-kim/COMP229-F2020-Midterm-301060073.git"
   },
   "keywords": [
     "NodeJS",
